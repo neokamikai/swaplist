@@ -1,0 +1,19 @@
+.swap-list-holder, .swap-list, .swap-list-selected, .swap-list-holder-table, 
+.swap-list-search-field, .swap-list-holder-table>tbody>tr>td>button{
+	width: 100%
+}
+
+div.swap-list-holder>table.swap-list-holder-table>tbody>tr>td:nth-child(2) {
+	width: 1px;
+	padding: 0px 3px;
+}
+.swap-list-holder-table>tbody>tr>td>button {
+	margin: 1.5px 0px
+}
+.swap-list-holder-table>tbody>tr:nth-child(2){
+	padding-top: 3px
+}
+div.swap-list-holder>table.swap-list-holder-table>tbody>tr>td:nth-child(1) ,
+div.swap-list-holder>table.swap-list-holder-table>tbody>tr>td:nth-child(3) {
+	width: 50%;
+}
